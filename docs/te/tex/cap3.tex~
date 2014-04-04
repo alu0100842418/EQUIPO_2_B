@@ -1,0 +1,9 @@
+
+\begin{figure}[!th]
+\begin{center}
+\includegraphics[width=0.75\textwidth]{images/imagen1.eps}
+\caption{Ejemplo de figura con graficos}
+\label{fig}
+\end{center}
+\end{figure
+
